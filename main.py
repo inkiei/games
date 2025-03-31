@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # URL van de API waar de JSON data staat
-API_URL = "https://my-json-server.typicode.com/GITHUB_USERNAME/REPO_NAAM/games"
+API_URL = "https://my-json-server.typicode.com/inkiei/games/games"
 
 @app.route('/')
 def index():
@@ -14,5 +14,4 @@ def index():
     
     return render_template('index.html', games=games)
 
-if __name__ == '__main__':
-    app.run(debug=True)
+app.run(host='0.0.0.0', port=5000)
