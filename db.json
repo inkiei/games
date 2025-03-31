@@ -1,0 +1,84 @@
+{
+    "games": [
+      {
+        "id": 1,
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "genre": "Action-adventure",
+        "release_year": 2017,
+        "developer": "Nintendo"
+      },
+      {
+        "id": 2,
+        "name": "The Witcher 3: Wild Hunt",
+        "genre": "RPG",
+        "release_year": 2015,
+        "developer": "CD Projekt Red"
+      },
+      {
+        "id": 3,
+        "name": "Grand Theft Auto V",
+        "genre": "Action",
+        "release_year": 2013,
+        "developer": "Rockstar Games"
+      },
+      {
+        "id": 4,
+        "name": "Minecraft",
+        "genre": "Sandbox",
+        "release_year": 2011,
+        "developer": "Mojang"
+      },
+      {
+        "id": 5,
+        "name": "Red Dead Redemption 2",
+        "genre": "Action-adventure",
+        "release_year": 2018,
+        "developer": "Rockstar Games"
+      },
+      {
+        "id": 6,
+        "name": "Dark Souls III",
+        "genre": "Action RPG",
+        "release_year": 2016,
+        "developer": "FromSoftware"
+      },
+      {
+        "id": 7,
+        "name": "Cyberpunk 2077",
+        "genre": "RPG",
+        "release_year": 2020,
+        "developer": "CD Projekt Red"
+      },
+      {
+        "id": 8,
+        "name": "Fortnite",
+        "genre": "Battle Royale",
+        "release_year": 2017,
+        "developer": "Epic Games"
+      },
+      {
+        "id": 9,
+        "name": "Overwatch 2",
+        "genre": "FPS",
+        "release_year": 2022,
+        "developer": "Blizzard Entertainment"
+      },
+      {
+        "id": 10,
+        "name": "Elden Ring",
+        "genre": "Action RPG",
+        "release_year": 2022,
+        "developer": "FromSoftware"
+      }
+    ],
+    "genres": [
+      { "id": 1, "name": "Action-adventure" },
+      { "id": 2, "name": "RPG" },
+      { "id": 3, "name": "Action" },
+      { "id": 4, "name": "Sandbox" },
+      { "id": 5, "name": "Battle Royale" },
+      { "id": 6, "name": "FPS" },
+      { "id": 7, "name": "Action RPG" }
+    ]
+  }
+  
